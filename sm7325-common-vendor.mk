@@ -458,28 +458,28 @@ PRODUCT_PACKAGES += \
     lib_SamsungRec_07010 \
     lib_SoundAlive_SRC384_ver320 \
     lib_soundaliveresampler \
-    liba2dpoffload_vendor \
+    liba2dpoffload \
     libadm \
     libaudio_log_utils \
     libaudio_soundtrigger \
     libaudioparsers \
-    libbatterylistener_vendor \
-    libcirrusspkrprot_vendor \
-    libcomprcapture_vendor \
+    libbatterylistener \
+    libcirrusspkrprot \
+    libcomprcapture \
     libdrc \
-    libexthwplugin_vendor \
-    libhdmiedid_vendor \
-    libhdmipassthru_vendor \
-    libhfp_vendor \
+    libexthwplugin \
+    libhdmiedid \
+    libhdmipassthru \
+    libhfp \
     libprofileparamstorage \
     libqtigef \
     librecordalive \
     libsamsungVoipResampler \
     libsecaudiocoreutils \
     libsecaudioinfo \
-    libsndmonitor_vendor \
+    libsndmonitor \
     libspatializerparamstorage \
-    libspkrprot_vendor \
+    libspkrprot \
     libsurround_3mic_proc \
     libwvhidl \
     libwvdrmengine \
